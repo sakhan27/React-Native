@@ -1,4 +1,4 @@
-import { StatusBar } from 'expo-status-bar';
+//import { StatusBar } from 'expo-status-bar';
 import React, { Component } from 'react';
 import Main from './components/MainComponent';
 import { Provider } from 'react-redux';
